@@ -1,0 +1,10 @@
+export 'package:flutter/material.dart';
+export 'package:get/get.dart';
+export '../controllers/controllers.dart';
+export '../models/models.dart';
+export '../screens/screens.dart';
+export '../utils/utils.dart';
+export '../services/services.dart';
+export 'package:google_fonts/google_fonts.dart';
+export 'package:cached_network_image/cached_network_image.dart';
+export 'package:yudiz_task/widgets/widget.dart';
